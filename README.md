@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CiroGC
 - 👀 I’m interested in App and Web development, even though I'm a newie in this world
-- 🌱 I’m currently learning Git, React Native, Javascript and C++.
+- 🌱 I’m currently learning Git, React Native, Javascript, C++ and Python.
 - 💞️ I’m looking to collaborate with anyone cool to help each other.
 - 📫 ¿How to reach me? Anywhere
 
